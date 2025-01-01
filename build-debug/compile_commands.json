@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/Users/calvin/Cal-Chat/build-debug/Client",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -isystem /opt/homebrew/opt/qt/lib/QtCore.framework/Headers -iframework /opt/homebrew/opt/qt/lib -isystem /opt/homebrew/opt/qt/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/opt/qt/include -isystem /opt/homebrew/opt/qt/lib/QtGui.framework/Headers -isystem /opt/homebrew/opt/qt/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt/lib/QtNetwork.framework/Headers -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk -o CMakeFiles/Client.dir/src/main.cpp.o -c /Users/calvin/Cal-Chat/Client/src/main.cpp",
+  "file": "/Users/calvin/Cal-Chat/Client/src/main.cpp",
+  "output": "Client/CMakeFiles/Client.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/calvin/Cal-Chat/build-debug/Client",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -isystem /opt/homebrew/opt/qt/lib/QtCore.framework/Headers -iframework /opt/homebrew/opt/qt/lib -isystem /opt/homebrew/opt/qt/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/opt/qt/include -isystem /opt/homebrew/opt/qt/lib/QtGui.framework/Headers -isystem /opt/homebrew/opt/qt/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt/lib/QtNetwork.framework/Headers -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk -o CMakeFiles/Client.dir/src/Window.cpp.o -c /Users/calvin/Cal-Chat/Client/src/Window.cpp",
+  "file": "/Users/calvin/Cal-Chat/Client/src/Window.cpp",
+  "output": "Client/CMakeFiles/Client.dir/src/Window.cpp.o"
+},
+{
+  "directory": "/Users/calvin/Cal-Chat/build-debug/Client",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -isystem /opt/homebrew/opt/qt/lib/QtCore.framework/Headers -iframework /opt/homebrew/opt/qt/lib -isystem /opt/homebrew/opt/qt/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/opt/qt/include -isystem /opt/homebrew/opt/qt/lib/QtGui.framework/Headers -isystem /opt/homebrew/opt/qt/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt/lib/QtNetwork.framework/Headers -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk -o CMakeFiles/Client.dir/src/LoginWindow.cpp.o -c /Users/calvin/Cal-Chat/Client/src/LoginWindow.cpp",
+  "file": "/Users/calvin/Cal-Chat/Client/src/LoginWindow.cpp",
+  "output": "Client/CMakeFiles/Client.dir/src/LoginWindow.cpp.o"
+},
+{
+  "directory": "/Users/calvin/Cal-Chat/build-debug/Client",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -isystem /opt/homebrew/opt/qt/lib/QtCore.framework/Headers -iframework /opt/homebrew/opt/qt/lib -isystem /opt/homebrew/opt/qt/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/opt/qt/include -isystem /opt/homebrew/opt/qt/lib/QtGui.framework/Headers -isystem /opt/homebrew/opt/qt/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt/lib/QtNetwork.framework/Headers -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk -o CMakeFiles/Client.dir/src/ChatWindow.cpp.o -c /Users/calvin/Cal-Chat/Client/src/ChatWindow.cpp",
+  "file": "/Users/calvin/Cal-Chat/Client/src/ChatWindow.cpp",
+  "output": "Client/CMakeFiles/Client.dir/src/ChatWindow.cpp.o"
+},
+{
+  "directory": "/Users/calvin/Cal-Chat/build-debug/Client",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -isystem /opt/homebrew/opt/qt/lib/QtCore.framework/Headers -iframework /opt/homebrew/opt/qt/lib -isystem /opt/homebrew/opt/qt/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/opt/qt/include -isystem /opt/homebrew/opt/qt/lib/QtGui.framework/Headers -isystem /opt/homebrew/opt/qt/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt/lib/QtNetwork.framework/Headers -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk -o CMakeFiles/Client.dir/src/moc_Window.cpp.o -c /Users/calvin/Cal-Chat/build-debug/Client/src/moc_Window.cpp",
+  "file": "/Users/calvin/Cal-Chat/build-debug/Client/src/moc_Window.cpp",
+  "output": "Client/CMakeFiles/Client.dir/src/moc_Window.cpp.o"
+},
+{
+  "directory": "/Users/calvin/Cal-Chat/build-debug/Client",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -isystem /opt/homebrew/opt/qt/lib/QtCore.framework/Headers -iframework /opt/homebrew/opt/qt/lib -isystem /opt/homebrew/opt/qt/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/opt/qt/include -isystem /opt/homebrew/opt/qt/lib/QtGui.framework/Headers -isystem /opt/homebrew/opt/qt/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt/lib/QtNetwork.framework/Headers -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk -o CMakeFiles/Client.dir/src/moc_LoginWindow.cpp.o -c /Users/calvin/Cal-Chat/build-debug/Client/src/moc_LoginWindow.cpp",
+  "file": "/Users/calvin/Cal-Chat/build-debug/Client/src/moc_LoginWindow.cpp",
+  "output": "Client/CMakeFiles/Client.dir/src/moc_LoginWindow.cpp.o"
+},
+{
+  "directory": "/Users/calvin/Cal-Chat/build-debug/Client",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -isystem /opt/homebrew/opt/qt/lib/QtCore.framework/Headers -iframework /opt/homebrew/opt/qt/lib -isystem /opt/homebrew/opt/qt/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/opt/qt/include -isystem /opt/homebrew/opt/qt/lib/QtGui.framework/Headers -isystem /opt/homebrew/opt/qt/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/opt/qt/lib/QtNetwork.framework/Headers -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk -o CMakeFiles/Client.dir/src/moc_ChatWindow.cpp.o -c /Users/calvin/Cal-Chat/build-debug/Client/src/moc_ChatWindow.cpp",
+  "file": "/Users/calvin/Cal-Chat/build-debug/Client/src/moc_ChatWindow.cpp",
+  "output": "Client/CMakeFiles/Client.dir/src/moc_ChatWindow.cpp.o"
+},
+{
+  "directory": "/Users/calvin/Cal-Chat/build-debug/Server",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DQT_CORE_LIB -DQT_NETWORK_LIB -isystem /opt/homebrew/opt/qt/lib/QtCore.framework/Headers -iframework /opt/homebrew/opt/qt/lib -isystem /opt/homebrew/opt/qt/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/opt/qt/include -isystem /opt/homebrew/opt/qt/lib/QtNetwork.framework/Headers -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk -o CMakeFiles/Server.dir/src/server.cpp.o -c /Users/calvin/Cal-Chat/Server/src/server.cpp",
+  "file": "/Users/calvin/Cal-Chat/Server/src/server.cpp",
+  "output": "Server/CMakeFiles/Server.dir/src/server.cpp.o"
+},
+{
+  "directory": "/Users/calvin/Cal-Chat/build-debug/Server",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DQT_CORE_LIB -DQT_NETWORK_LIB -isystem /opt/homebrew/opt/qt/lib/QtCore.framework/Headers -iframework /opt/homebrew/opt/qt/lib -isystem /opt/homebrew/opt/qt/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/opt/qt/include -isystem /opt/homebrew/opt/qt/lib/QtNetwork.framework/Headers -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk -o CMakeFiles/Server.dir/src/DeviceServer.cpp.o -c /Users/calvin/Cal-Chat/Server/src/DeviceServer.cpp",
+  "file": "/Users/calvin/Cal-Chat/Server/src/DeviceServer.cpp",
+  "output": "Server/CMakeFiles/Server.dir/src/DeviceServer.cpp.o"
+},
+{
+  "directory": "/Users/calvin/Cal-Chat/build-debug/Server",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DQT_CORE_LIB -DQT_NETWORK_LIB -isystem /opt/homebrew/opt/qt/lib/QtCore.framework/Headers -iframework /opt/homebrew/opt/qt/lib -isystem /opt/homebrew/opt/qt/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/opt/qt/include -isystem /opt/homebrew/opt/qt/lib/QtNetwork.framework/Headers -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk -o CMakeFiles/Server.dir/src/moc_DeviceServer.cpp.o -c /Users/calvin/Cal-Chat/build-debug/Server/src/moc_DeviceServer.cpp",
+  "file": "/Users/calvin/Cal-Chat/build-debug/Server/src/moc_DeviceServer.cpp",
+  "output": "Server/CMakeFiles/Server.dir/src/moc_DeviceServer.cpp.o"
+}
+]

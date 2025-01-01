@@ -1,0 +1,52 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Compiled Binary files
+*.so
+*.dll
+*.dylib
+*.exe
+*.out
+
+# Build directories
+build-*/
+build-debug/
+build-release/
+
+# Generated files from Qt
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+
+# Makefiles and related
+Makefile
+Makefile.*
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+compile_commands.json
+CMakeScripts/
+*.cmake
+
+# IDE-specific files
+.vscode/
+.idea/
+*.iml
+
+# Logs and temporary files
+*.log
+*.pid
+*.tmp
+*.stackdump
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Swap files
+*.swp
+*.swo
+

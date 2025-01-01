@@ -1,0 +1,8 @@
+/Users/calvin/Cal-Chat/build-debug/CMakeFiles/edit_cache.dir
+/Users/calvin/Cal-Chat/build-debug/CMakeFiles/rebuild_cache.dir
+/Users/calvin/Cal-Chat/build-debug/Client/CMakeFiles/Client.dir
+/Users/calvin/Cal-Chat/build-debug/Client/CMakeFiles/edit_cache.dir
+/Users/calvin/Cal-Chat/build-debug/Client/CMakeFiles/rebuild_cache.dir
+/Users/calvin/Cal-Chat/build-debug/Server/CMakeFiles/Server.dir
+/Users/calvin/Cal-Chat/build-debug/Server/CMakeFiles/edit_cache.dir
+/Users/calvin/Cal-Chat/build-debug/Server/CMakeFiles/rebuild_cache.dir
