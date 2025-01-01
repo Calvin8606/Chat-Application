@@ -1,5 +1,5 @@
 #
-.cache
+.cache/clangd/index
 
 # Compiled Object files
 *.o
