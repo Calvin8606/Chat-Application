@@ -1,5 +1,0 @@
-# Hashes of file build rules.
-13ceddb940a6d0d14847e0b4aca684fc Client/src/moc_ChatWindow.cpp
-997c4da675780d26cccbde44326423e9 Client/src/moc_LoginWindow.cpp
-d7e173b3e7097e3c4fee3a4c467f0a98 Client/src/moc_Window.cpp
-9af762d396a68cc3b94d9121976ffd1d Server/src/moc_DeviceServer.cpp
